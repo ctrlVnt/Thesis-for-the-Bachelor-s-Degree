@@ -8,3 +8,5 @@ EmergeMobile is the application dedicated to volume calculation operations on tr
 The use of ChatGPT played a crucial role in the project's implementation, providing code, bug interpretation, explanations of technologies, and much more!
 
 If you are interested in delving deeper into the topic, the entire thesis is available. Enjoy reading!
+
+[English Version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/EN) | [Italian Version]([link_to_italian_version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/IT))
