@@ -1,0 +1,1 @@
+# Thesis-for-the-Bachelor-s-Degree
