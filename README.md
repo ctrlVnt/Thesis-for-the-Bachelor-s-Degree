@@ -9,4 +9,4 @@ The use of ChatGPT played a crucial role in the project's implementation, provid
 
 If you are interested in delving deeper into the topic, the entire thesis is available. Enjoy reading!
 
-[English Version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/EN) | [Italian Version]([link_to_italian_version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/IT)
+[English Version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/EN) | [Italian Version](https://github.com/ctrlVnt/Thesis-for-the-Bachelor-s-Degree/tree/main/IT)
